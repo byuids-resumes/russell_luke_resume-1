@@ -8,7 +8,7 @@ Data Scientist
 <a href="rus20019@byui.edu">rus20019@byui.edu</a>
 |
  <a href="https://www.linkedin.com/in/luke-r-b52969b0/">LinkedIn</a>
-| <a href="https://jluke-russell.github.io/russell_luke_resume/">GitHub</a>
+| <a href="https://byuids-resumes.github.io/russell_luke_resume-1/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->

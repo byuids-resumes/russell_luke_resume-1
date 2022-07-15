@@ -30,6 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `2022 - Present`
 __Data Analyst__, Rexburg, ID 
+
 `Provided data wrangling, visualizaiton, and analysis services for the BYU-I Data Analysis department. 
 Used R and Power BI perform tasks related to data wrangeling and visualization.` 
 
@@ -37,17 +38,20 @@ Used R and Power BI perform tasks related to data wrangeling and visualization.`
 
 `2018-2020`
 __Missionary Service__, Los Angeles, CA
+
 `Provide service for others, taught English to native Chinese speakers. 
 Proficent in conversational Chinese. 
 `
 `2020` 
 __Customer Service Clerk__, Harris Teeter
+
 `Provide world-class customer service to customers, answering their questions and solving problems with price and other things. 
 Used language skills to interact with customers who did not speak English. 
 Learned leadership skills and communication to help fellow employees accomplish their tasks successfully. `
 
 `2021-2022`
 __Math Tutor__, BYU-I
+
 `Used teaching skills learned while performing afore mentioned missionary service to help students understand concepts in statistics and algebra. ` 
 
 
